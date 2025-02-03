@@ -1,0 +1,45 @@
+Step 1: Create a New Folder
+Create a new folder named "clone" inside the "bootcoding" folder.
+
+Step 2: Open Terminal
+Open the terminal and navigate to the "clone" folder by typing cd clone.
+
+Step 3: Search for FastAPI on GitHub
+Open Google Chrome and search for "gitingest". Open the first link, click on "FastAPI", and then click on "Ingest". Copy the directory structure of the code.
+
+Step 4: Copy and Paste Code
+Paste the copied code into Notepad.
+
+Step 5: Navigate to FastAPI Repository
+Copy the link to the FastAPI repository: https://github.com/tiangolo/fastapi.
+
+Step 6: Clone FastAPI Repository
+Go back to the terminal and type git clone https://github.com/tiangolo/fastapi to install (local libraries)
+
+Step 7: Navigate to fastapi Folder
+Follow these commands to navigate to the "how-to" folder:
+
+cd fastapi
+cd docs
+cd de
+cd docs
+cd how-to/
+
+You are now inside the "how-to" folder.
+
+Step 8: Go Back to FastAPI Folder
+To go back to the FastAPI folder, follow these commands:
+
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+
+You are now back in the FastAPI folder.
+
+Step 9: Know Navigate to Background Tasks Folder 
+To navigate to the "background tasks" folder , follow these commands:
+
+cd docs_src
+cd background_tasks

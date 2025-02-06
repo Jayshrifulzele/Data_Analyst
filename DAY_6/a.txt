@@ -1,0 +1,26 @@
+Step 1: Create a Folder and File
+- Create a new folder on your computer.
+- Create a new file inside that folder.
+- Write your code in that file using any programming language.
+- Save the file and run the code.
+
+Step 2: Create a GitHub Repository
+- Go to GitHub and create a new repository.
+- Give your repository a specific name.
+
+Step 3: Commit Your Code
+- Open your terminal and navigate to your folder using cd data analytics.
+- Initialize a new Git repository using git init.
+- Link your repository to GitHub using git remote add origin (paste the repository link).
+- Verify the link using git remote -v.
+- Create a new branch named "main" using git branch -M main.
+- Add all files to the repository using git add.
+- Commit your changes using git commit -m "add:changes".
+- Push your changes to GitHub using git push -u origin main.
+
+Step 4: Commit Another Folder
+- If you want to commit another folder to the same repository, use these three commands:
+    1. git add
+    2. git commit -m "Add:new file"
+    3. git push -u origin main
+    
